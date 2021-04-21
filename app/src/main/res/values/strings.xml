@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Company A Coding Test</string>
+    <string name="btn_search">검색</string>
+    <string name="main_search_hint">검색어를 입력해 주세요.</string>
+    <string name="main_search">검색</string>
+    <string name="main_favorite">보관함</string>
+    <string name="main_exit_msg">뒤로가기를 한번 더 누르면 종료됩니다.</string>
+    <string name="main_searching">검색중...</string>
+    <string name="main_add_favorite_success">사진이 보관함에 저장되었습니다.</string>
+    <string name="main_del_favorite_success">보관함에서 사진을 삭제했습니다.</string>
+    <string name="main_alert_confirm">확인</string>
+</resources>
